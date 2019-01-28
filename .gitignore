@@ -1,6 +1,7 @@
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
+.ipynb_checkpoints
 
 # Folder config file
 Desktop.ini
@@ -38,6 +39,7 @@ $RECYCLE.BIN/
 .TemporaryItems
 .Trashes
 .VolumeIcon.icns
+
 
 # Directories potentially created on remote AFP share
 .AppleDB
